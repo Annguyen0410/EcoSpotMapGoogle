@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Four leaves arranged in a circle -->
+    <group android:scaleX="0.6" android:scaleY="0.6" android:translateX="21.6" android:translateY="21.6">
+        
+        <!-- Leaf 1 (top) -->
+        <path
+            android:fillColor="#90EE90"
+            android:pathData="M54,20 C54,20 45,35 45,45 C45,55 54,70 54,70 C54,70 63,55 63,45 C63,35 54,20 54,20 Z"/>
+        
+        <!-- Leaf 2 (right) -->
+        <path
+            android:fillColor="#90EE90"
+            android:pathData="M70,54 C70,54 55,63 45,63 C35,63 20,54 20,54 C20,54 35,45 45,45 C55,45 70,54 70,54 Z"/>
+        
+        <!-- Leaf 3 (bottom) -->
+        <path
+            android:fillColor="#90EE90"
+            android:pathData="M54,88 C54,88 45,73 45,63 C45,53 54,38 54,38 C54,38 63,53 63,63 C63,73 54,88 54,88 Z"/>
+        
+        <!-- Leaf 4 (left) -->
+        <path
+            android:fillColor="#90EE90"
+            android:pathData="M38,54 C38,54 53,45 63,45 C73,45 88,54 88,54 C88,54 73,63 63,63 C53,63 38,54 38,54 Z"/>
+        
+        <!-- Central circle with gradient effect -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#90EE90"
+            android:strokeWidth="2"
+            android:pathData="M54,45 A9,9 0 1,1 54,63 A9,9 0 1,1 54,45 Z"/>
+    </group>
+</vector>

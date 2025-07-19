@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#e3e3e3">
+
+    <!-- Simple barn/farm building -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M4,18h16v2H4V18z"/>
+
+    <!-- Barn roof -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M12,4L6,10h12L12,4z"/>
+
+    <!-- Barn walls -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M7,10h10v8H7V10z"/>
+
+    <!-- Barn door -->
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M10,14h4v4h-4V14z"/>
+
+    <!-- Small plant/crop -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M3,16c0,-1 0.5,-2 1,-2s1,1 1,2v2H3V16z"/>
+
+    <!-- Another small plant/crop -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M19,16c0,-1 0.5,-2 1,-2s1,1 1,2v2h-2V16z"/>
+</vector>

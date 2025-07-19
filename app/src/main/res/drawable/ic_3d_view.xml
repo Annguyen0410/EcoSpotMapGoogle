@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorOnPrimary">
+  <!-- 3D Cube -->
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M9,6L15,6L15,12L9,12z"/>
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M15,6L18,4L18,10L15,12z"/>
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M9,6L6,4L6,10L9,12z"/>
+  <!-- 3D text indicator -->
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M7,16L17,16L17,18L7,18z"/>
+</vector> 
