@@ -1,5 +1,7 @@
 # EcoSpotMapGoogle
 
+Made By HUYNH THIEN AN NGUYEN
+
 A native Android application that leverages Google Maps APIs to help users discover and navigate to eco-friendly locations in their area. The app combines location services with environmental awareness, providing a seamless experience for finding sustainable businesses, recycling centers, and green spaces.
 
 ## Features
@@ -127,9 +129,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For technical support or feature requests, please open an issue on GitHub or contact the development team.
+nguyenan04102004@gmail.com
 
 ## Acknowledgments
 
 - Google Maps Platform for providing the mapping and location services
 - Material Design team for the UI components and guidelines
-- Android developer community for best practices and resources 
+- Android developer community for best practices and resources
+
+  Made By HUYNH THIEN AN NGUYEN
