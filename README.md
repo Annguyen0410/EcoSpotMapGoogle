@@ -6,6 +6,8 @@ Made By HUYNH THIEN AN NGUYEN
 
 A native Android application that leverages Google Maps APIs to help users discover and navigate to eco-friendly locations in their area. The app combines location services with environmental awareness, providing a seamless experience for finding sustainable businesses, recycling centers, and green spaces.
 
+PLEASE VOTE🥺🥺🥺: https://mapsplatform.google.com/awards/nominees/ecospotmap/
+
 ## Features
 
 - **Interactive Map Interface**: Real-time Google Maps integration with custom markers for eco-friendly locations
